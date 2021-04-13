@@ -1,5 +1,3 @@
-[![Docker Build](https://img.shields.io/docker/automated/p-12s/jmeter.svg)](https://hub.docker.com/r/p-12s/jmeter)
-
 # docker-jmeter
 ## Image on Docker Hub
 
